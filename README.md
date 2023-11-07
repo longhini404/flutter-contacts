@@ -14,7 +14,7 @@ flutter devices
 sudo snap install android-studio --classic
 ```
 
-# Deploy
+# Setup
 
 ```
 flutter packages get
